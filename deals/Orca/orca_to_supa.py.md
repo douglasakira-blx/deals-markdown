@@ -2,7 +2,7 @@
 arquivo_original: "orca_to_supa.py"
 caminho_deal: "Orca"
 mime_type: "text/x-python-script"
-data_conversao: "2026-10-20T23:01:26.154Z"
+data_conversao: "2026-10-20T23:02:56.151Z"
 ---
 
 """
