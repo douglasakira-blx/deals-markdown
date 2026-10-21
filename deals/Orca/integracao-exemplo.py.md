@@ -2,7 +2,7 @@
 arquivo_original: "integracao-exemplo.py"
 caminho_deal: "Orca"
 mime_type: "text/x-python-script"
-data_conversao: "2026-10-20T23:02:42.985Z"
+data_conversao: "2026-10-21T14:18:38.840Z"
 ---
 
 #!/usr/bin/env python3
