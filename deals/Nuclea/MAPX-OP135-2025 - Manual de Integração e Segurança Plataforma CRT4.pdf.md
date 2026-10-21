@@ -3,7 +3,7 @@ arquivo_original: "MAPX-OP135-2025 - Manual de Integração e Segurança Plat
 caminho_deal: "Nuclea"
 mime_type: "application/pdf"
 motor_utilizado: "Gemini Flash API"
-data_conversao: "2026-10-21T14:29:19.929Z"
+data_conversao: "2026-10-21T14:31:37.667Z"
 ---
 
 > _Erro na API do Gemini (Código HTTP 404):_
